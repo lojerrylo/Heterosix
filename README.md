@@ -12,14 +12,14 @@ hexapods hexapod;
 hexapod.motorAngle(int motorID);
 ```
 parameter:
->> picture uploading
+![image](https://github.com/obstaclelamb/Heterosix/blob/main/Reference/image/005.png)
 
 ### get motor angle by legID and motor part ID
 ```
 hexapod.motorAngle(int legID, int motor);
 ```
 parameter:
->> picture uploading
+![image](https://github.com/obstaclelamb/Heterosix/blob/main/Reference/image/004.png)
 
 ## 2. Use five-axis robotic arm
 >> pending
